@@ -1,11 +1,5 @@
 # Hi, I'm Doug 👋
 
-I spent 33 years doing every job on the plant floor. Now I build the software I wish I'd had:
-tools that keep working when the network doesn't, keep your data on your own machines, and
-stay out of the way of the person using them.
-
-Everything here is **free and open source**.
-
 ## What I build
 
 | Project | What it is | Runs on |
@@ -16,6 +10,14 @@ Everything here is **free and open source**.
 | **[Trier Fantasy Football](https://github.com/DougTrier/Trier_Fantasy_Football)** | Peer-to-peer fantasy football for your league. No cloud, no accounts, no subscriptions. | Windows |
 | **[Aura](https://github.com/DougTrier/Aura-by-Trier-OS)** | A calm desktop companion that notices what's wearing you down, like context switching and meeting overload, and offers safe automations you can inspect. | Windows |
 | **[Trier Bridge](https://github.com/DougTrier/trier-bridge)** | Everything you know, Linux underneath: the places and tools a Windows user knows, on Ubuntu, without a terminal. | Ubuntu 24.04 |
+
+Everything here is **free and open source**.
+
+## About me
+
+I spent 33 years doing every job on the plant floor. Now I build the software I wish I'd had:
+tools that keep working when the network doesn't, keep your data on your own machines, and
+stay out of the way of the person using them.
 
 ## How I build
 
