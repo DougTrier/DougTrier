@@ -1,7 +1,8 @@
 # Hi, I'm Doug 👋
 
-I spent 33 years doing every job on the plant floor. Now I build free, open-source software that
-works offline and keeps your data on your own machines.
+I spent 33 years doing every job on the plant floor, and Trier OS is what came out of it.
+Everything else here is what I build for fun: live TV, local AI, fantasy football and more.
+All free and open source.
 
 [dougtrier.com](https://dougtrier.com) ·
 [GenX Streamer](https://dougtrier.github.io/GenX-Streamer/) ·
